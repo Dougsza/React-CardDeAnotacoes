@@ -1,0 +1,13 @@
+.conteudo {
+    display: flex;
+  }
+  
+  :root {
+    --primaria: #58a4b0;
+    --secundaria: #373f51;
+    --secundaria-ativa: #cccccc;
+    --fundo: #bcecf3;
+    --fundo-detalhes: #f5f5f5;
+    --fundo-card: #ffffff;
+  }
+  
